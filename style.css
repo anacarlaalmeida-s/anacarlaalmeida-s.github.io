@@ -285,21 +285,7 @@ body {
   .movie {
     width: 20rem;
     min-height: 25rem;
-  }
-
-  .btn-prev {
-    position: absolute;
-    cursor: pointer;
-    top: 25rem;
-    right: 45rem;
-  }
-
-  .btn-next {
-    position: absolute;
-    cursor: pointer;
-    top: 25rem;
-    left: 45rem;
-  }
+  } 
 
   .highlight {
     flex-direction: column;
