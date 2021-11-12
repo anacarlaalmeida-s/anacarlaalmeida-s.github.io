@@ -290,15 +290,15 @@ body {
   .btn-prev {
     position: absolute;
     cursor: pointer;
-    top: 125rem;
-    right: 40rem;
+    top: 25rem;
+    right: 45rem;
   }
 
   .btn-next {
     position: absolute;
     cursor: pointer;
-    top: 125rem;
-    left: 40rem;
+    top: 25rem;
+    left: 45rem;
   }
 
   .highlight {
